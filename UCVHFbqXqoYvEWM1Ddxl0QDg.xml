@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Android Developers</title>
+    <link>https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg</link>
+    <description>Welcome to the official Android Developers YouTube channel. Get the latest Android news, best practices, live videos, demonstrations, tutorials, and more!
+</description>
+    <generator>utipod</generator>
+    <image>
+      <url>https://yt3.ggpht.com/OWAcq1Yu0stdx87oWaZNPMLWYhAyrGhmDTPyi13jlmfAGkkLO5RgYnLGoaXqG_ZOWXCiuqKk=s0</url>
+      <title>Android Developers</title>
+      <link>https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg</link>
+    </image>
+    <item>
+      <description><![CDATA[With this episode of MAD skills we are starting a series of videos dedicated to architecture. In this video you'll learn about the data layer and its two basic components: repositories and data sources. We'll also cover data immutability, error handling, threading, testing and more tricks and recommendations with Developer Relations Engineer Jose Alcérreca.
+
+Architecture Guide → https://goo.gle/mad-architecture
+Kotlin Flows guide → https://goo.gle/360rqlh 
+Guide to background work → https://goo.gle/35U42WT 
+
+Catch more videos on the Architecture guide → https://goo.gle/Architecture 
+Watch more MAD Skills episodes → http://goo.gle/madskills  
+Subscribe to Android Developers → https://goo.gle/AndroidDevs    
+
+#Featured #Latest #MADSkills
+
+
+Product: Android - General]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Architecture: The data layer - MAD Skills]]></title>
+      <guid>r5AseKQh2ZE</guid>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg</source>
+      <author>Android Developers</author>
+      <link>https://www.youtube.com/watch?v=r5AseKQh2ZE</link>
+      <enclosure url="http://174.89.235.81:8080/UCVHFbqXqoYvEWM1Ddxl0QDg/r5AseKQh2ZE.mkv" length="42642540" type="application/octet-stream"/>
+      <itunes:image href="https://i.ytimg.com/vi/r5AseKQh2ZE/maxresdefault.jpg"/>
+    </item>
+  </channel>
+</rss>
